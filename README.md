@@ -76,7 +76,7 @@ Follow the prompts to enter:
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/python-http-load-tester.git
+git clone https://github.com/atrx07/python-http-load-tester.git
 cd python-http-load-tester
 ```
 
