@@ -1,14 +1,16 @@
-# Python HTTP Load Tester (ATRX)
+# Python HTTP Load Teste
 
 A lightweight multithreaded HTTP load testing tool written in Python.
 
-This project was built as a simple CLI utility to simulate HTTP requests and measure response performance. It uses a **controlled structure with built-in limits** to prevent misuse and encourage responsible testing practices.
+This project was built by @atrx07 as a simple CLI utility to simulate HTTP requests and measure response performance. It uses a **controlled structure with built-in limits** to prevent misuse and encourage responsible testing practices.
+
+### (installation and usage steps below)
 
 ---
 
 ## Description
 
-ATRX is a terminal-based load testing tool that sends concurrent HTTP requests to a target URL and measures metrics such as latency and requests per second.
+This is a terminal-based load testing tool that sends concurrent HTTP requests to a target URL and measures metrics such as latency and requests per second.
 
 The tool includes **safety limits and structured controls** to prevent excessive misuse while still allowing meaningful testing for development environments.
 
