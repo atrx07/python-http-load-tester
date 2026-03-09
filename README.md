@@ -1,4 +1,4 @@
-# Python HTTP Load Teste
+# Python HTTP Load Tester
 
 A lightweight multithreaded HTTP load testing tool written in Python.
 
